@@ -1,4 +1,4 @@
-##게임 구성
+게임 구성
 
 *플레이어
   *플레이어 설정:
@@ -22,9 +22,10 @@
   4) is Hot: 발판 위 플레이어의 체력을 지정한 값만큼 지속적으로 감소시킵니다.
 
 
-###핵심 기능
+핵심 기능
 
 *점프 충전
   *위치: Player 폴더 > PlayerController.cs > ChargigJump(),JumpCancle()
+  
 *3인칭 카메라
   *위치: Camera 폴더 > PlayerCamera.cs
