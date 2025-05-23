@@ -1,6 +1,7 @@
 ##게임 구성
 
 *플레이어
+
   *플레이어 설정:
   1) Move Speed: 플레이어 이동속도
   2) Jump Power: 플레이어 점프력
@@ -8,10 +9,14 @@
   4) Charge Cost: 충전 스테미나 소모량
   5) Charging Speed: 점프 충전 속도
   6) Max Charge: 최대 충전량
+     
+
 *아이템
   *청사과: 플레이어의 체력을 회복시킵니다.
   *바나나: 잠시 플레이어의 점프 충전 속도를 상승시킵니다.
   *컵케잌: 위치에 관계없이 사용 시점으로부터 높게 날아오릅니다.
+
+  
 *발판(Platform)
   *발판 설정:
   1) is Clear: 발판을 밟는다면 게임이 종료되며 Rerty버튼을 활성화합니다.
@@ -21,7 +26,9 @@
 
 
 ###핵심 기능
+
 *점프 충전
   *위치: Player 폴더 > PlayerController.cs > ChargigJump(),JumpCancle()
+  
 *3인칭 카메라
   *위치: Camera 폴더 > PlayerCamera.cs
