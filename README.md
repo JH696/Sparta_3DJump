@@ -21,8 +21,6 @@
 
 핵심 기능
 
-점프 충전
-  *위치: Player 폴더 > PlayerController.cs > ChargigJump(),JumpCancle()
+점프 충전 (Player 폴더 > PlayerController.cs > ChargigJump(),JumpCancle())
   
-3인칭 카메라
-  *위치: Camera 폴더 > PlayerCamera.cs
+3인칭 카메라 (위치: Camera 폴더 > PlayerCamera.cs)
